@@ -1,0 +1,9 @@
+Nome: Cauã Bandeira, Pergunta: Quem é o atual presidente dos Estados Unidos?, Resposta: Joe Biden, Acertou: True
+Nome: Cauã Bandeira, Pergunta: O que é uma borboleta?, Resposta: Uma borboleta é um inseto voador com asas coloridas, composto por quatro estágios de vida: ovo, lagarta, crisálida e adulto (borboleta). Elas são importantes polinizadores no ambiente natural. 
+
+Resumidamente, a borboleta pode ser definida como um pequeno inseto volante conhecido pelas suas belas cores nos padrões das suas asas., Acertou: True
+Nome: Cauã Bandeira, Pergunta: Qual é a equipe de fórmula 1 com mais títulos?, Resposta: A equipe de fórmula um com mais títulos do campeonato de construtores é a Ferrari com 16 títulos somados., Acertou: False
+Nome: Maria Antonieta, Pergunta: Qual é a capital da Holanda?, Resposta: A capital da Holanda (Países Baixos) é Amsterdã, embora o governo e as instituições principais estejam localizados na cidade de Haia. No entanto, muitas vezes se refere à "capital" dos Países Baixos como sendo simplesmente os Países Baixos devido ao fato de que não existe uma única cidade oficial com essa designação. Porém, para fins deste exercício, diria apenas: A capital holandesa é Amsterdam., Acertou: True
+Nome: Maria Antonieta, Pergunta: Qual é a região mais populosa do Brasil?, Resposta: A região Sudeste é a mais populosa do Brasil., Acertou: True
+Nome: Maria Antonieta, Pergunta: Como é feita a manteiga?, Resposta: A manteiga é produzida através do processamento de leite ou creme, que são aquecidos e agitados até se separarem na gordura láctea (manteiga) e o soro de leite. Em seguida, essa gordura é misturada com um pouco d'água para obter uma consistência macia e sólida. Finalmente, ela pode ser salgada opcionalmente antes de empacotar., Acertou: True
+Nome: Maria Antonieta, Pergunta: Qual é o nome do atual presidente da Itália?, Resposta: O atual presidente da Itália é Sergio Mattarella., Acertou: True
