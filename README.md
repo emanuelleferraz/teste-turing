@@ -1,5 +1,5 @@
 # Teste de Turing 🤖x👩‍💻
-Este projeto consiste em um servidor e um cliente para um jogo baseado no teste de Turing. O servidor utiliza dois modos de operação sendo: Automático (API do ChatGPT) ou Controloado (Humano) para fornecer respostas e permite ao cliente identificar se a resposta veio de um humano ou de uma IA.
+Este projeto consiste em um servidor e um cliente para um jogo baseado no teste de Turing. O servidor utiliza dois modos de operação sendo: Automático (API do Copilot) ou Controloado (Humano) para fornecer respostas e permite ao cliente identificar se a resposta veio de um humano ou de uma IA.
 
 ## Estrutura do Projeto
 O projeto é composto por dois arquivos principais:
@@ -13,7 +13,7 @@ O projeto é composto por dois arquivos principais:
 
 ## Configurações
  1. Configurações de API:
-Você precisará de uma chave de API válida da OpenAI. Substitua `9cb60b74e4msh28a3c486cff37a6p16291ejsnde96528a9afb` no código do servidor por sua chave de API.
+Você precisará de uma chave de API válida da OpenAI. Substitua `81260b7ee9msh38c8b6574e5a511p1fb191jsn00a5748320e8` no código do servidor por sua chave de API.
  2. Configurações no Cliente:
 No arquivo `cliente.py`, o cliente se conectará ao servidor utilizando:
 - Host: Substitua o localhost `127.0.0.1` pelo IP da máquina na qual o servidor estará rodando.
