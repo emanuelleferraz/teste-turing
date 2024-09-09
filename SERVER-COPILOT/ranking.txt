@@ -1,0 +1,27 @@
+{
+    "Diogo Santos": {
+        "total": 3,
+        "acertos": 2,
+        "percentual": 66.66666666666666
+    },
+    "Ana Marcela": {
+        "total": 3,
+        "acertos": 2,
+        "percentual": 66.66666666666666
+    },
+    "Vitoria Soares": {
+        "total": 4,
+        "acertos": 2,
+        "percentual": 50.0
+    },
+    "Cauã Bandeira": {
+        "total": 2,
+        "acertos": 1,
+        "percentual": 50.0
+    },
+    "Karen Barbosa": {
+        "total": 4,
+        "acertos": 2,
+        "percentual": 50.0
+    }
+}

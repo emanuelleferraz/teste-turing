@@ -1,0 +1,25 @@
+Nome: Vitoria Soares, Pergunta: Quais são as estações do ano?, Resposta: As estações do ano são quatro:
+
+Primavera
+Verão
+Outono
+Inverno
+
+Cada uma tem características climáticas distintas e ocorre em períodos específicos do ano., Acertou: True
+Nome: Vitoria Soares, Pergunta: Como se chama o atual presidente do Brasil?, Resposta: O atual presidente do Brasil é Luiz Inácio Lula da Silva., Acertou: False
+Nome: Vitoria Soares, Pergunta: Qual é a capital da Espanha?, Resposta: A capital da Espanha é Madrid., Acertou: True
+Nome: Vitoria Soares, Pergunta: Qual é a capital de Minas Gerais?, Resposta: A capital do estado de Minas Gerais é Belo Horizonte., Acertou: False
+Nome: Diogo Santos, Pergunta: O que é uma borboleta?, Resposta: Uma borboleta é um inseto da ordem Lepidoptera, conhecido por suas asas coloridas e padrões variados. Elas passam por uma metamorfose completa, com quatro fases: ovo, larva (lagarta), pupa (crisálida) e adulto (imago). As borboletas se alimentam de néctar e são importantes polinizadoras., Acertou: True
+Nome: Diogo Santos, Pergunta: Como são chamados os desenhos japoneses?, Resposta: Os desenhos japoneses são chamados de anime., Acertou: False
+Nome: Diogo Santos, Pergunta: Como se chama o atual presidente dos estados Unidos?, Resposta: O atual presidente dos Estados Unidos é Joe Biden., Acertou: True
+Nome: Cauã Bandeira, Pergunta: Quanto é 5 vezes 5?, Resposta: 5 vezes 5 é 25., Acertou: False
+Nome: Cauã Bandeira, Pergunta: Como se chama a capital da França?, Resposta: A capital de França é Paris., Acertou: True
+Nome: Ana Marcela, Pergunta: O que são os medicamentos genéricos?, Resposta: Medicamentos genéricos são aqueles que contêm o mesmo princípio ativo, dose e forma farmacêutica que os medicamentos de referência, mas são vendidos sem marca. Eles são igualmente eficazes e seguros, mas geralmente mais baratos.
+
+Se precisar de mais detalhes, estou aqui para ajudar!, Acertou: True
+Nome: Ana Marcela, Pergunta: Qual é a capital de Portugal?, Resposta: A capital de Portugal é Lisboa., Acertou: False
+Nome: Ana Marcela, Pergunta: Qual é a capital do Espirito Santo?, Resposta: A capital do estado do Espírito Santo é Vitória., Acertou: True
+Nome: Karen Barbosa, Pergunta: Qual são os dois países mais populosos do mundo?, Resposta: China e Índia., Acertou: False
+Nome: Karen Barbosa, Pergunta: Qual time brasileiro possui maior torcida?, Resposta: Flamengo., Acertou: False
+Nome: Karen Barbosa, Pergunta: Quais são os dois principais times de Minas Gerais?, Resposta: Os dois principais times do estado de Minas Gerais são Cruzeiro e Atlético Mineiro., Acertou: True
+Nome: Karen Barbosa, Pergunta: O que é uma borboleta°, Resposta: Uma borboleta é um inseto da ordem Lepidoptera, conhecido por suas asas coloridas e ciclo de vida que inclui as fases de ovo, larva (lagarta), pupa (crisálida) e adulto., Acertou: True
